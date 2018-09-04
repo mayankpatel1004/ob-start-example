@@ -1,0 +1,59 @@
+<div class="search_bar">
+    <table width="702" border="0" height="50" cellspacing="0" cellpadding="0">
+        <tr>
+            <td>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td width="200">&nbsp;</td>
+                        <td>
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                    <td width="50%"><font size="+2">CONTACT REPORT</font></td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td width="200">&nbsp;</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</div>
+<div class="clear"></div>
+<div class="container01">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td>
+                <table width="100%" border="1" class="table_brd" cellspacing="1" cellpadding="0">
+                    <tr bgcolor="#666666">
+                        <th style="color:#FFFFFF;" valign="middle" width="10%" height="30">NAME</th>
+                        <th style="color:#FFFFFF;" valign="middle" width="20%">EMAIL</th>
+                        <th style="color:#FFFFFF;" valign="middle" width="10%">COMPANY</th>
+                        <th style="color:#FFFFFF;" valign="middle" width="10%">PHONE</th>
+                        <th style="color:#FFFFFF;" valign="middle" width="10%">SUBJECT</th>
+                        <th style="color:#FFFFFF;" valign="middle" width="5%">TYPE</th>
+                        <th style="color:#FFFFFF;" valign="middle" width="30%">MESSAGE</th>
+                        <th style="color:#FFFFFF;" valign="middle" width="30%">STATUS</th>
+                        <th style="color:#FFFFFF;" valign="middle" width="30%">SOURCE</th>
+                    </tr>
+
+
+                    <tr>
+                        <td style="text-align:left;">Mayank</td>
+                        <td style="text-align:left;">mayank.patel@devdigital.com</td>
+                        <td style="text-align:left;">Dev Digital</td>
+                        <td style="text-align:left;">999-999-9999</td>
+                        <td style="text-align:left;">Test Subject</td>
+                        <td style="text-align:left;">Test Type</td>
+                        <td style="text-align:left;">Test Message</td>
+                        <td style="text-align:left;">HOT</td>
+                        <td style="text-align:left;">Source title</td>
+                    </tr>
+
+                </table>
+            </td>
+        </tr>
+    </table>
+    <br />
+    <br />
+</div>
